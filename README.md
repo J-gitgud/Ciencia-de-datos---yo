@@ -1,2 +1,4 @@
-# Ciencia-de-datos---yo
-Tareas ciencias de datos
+# Tarea
+
+Aqui dejo las tareas asignadas del repositorio
+
